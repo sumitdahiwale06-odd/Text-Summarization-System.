@@ -1,0 +1,6 @@
+{
+  "name": "Text Summarization System",
+  "description": "NLP-based Extractive Text Summarization System for V Semester ETC Natural Language Processing course by Sumit Dahiwale (BT240017ET).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
